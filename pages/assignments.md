@@ -12,6 +12,7 @@ description: Ben Harvey's assignments
             <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
             <li><a href="#Assignment4">Assignment4</a></li>
+            <li><a href="www.google.com">Google</a/</li>
             <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
             <li><a href="#labassignments">Lab Assignments</a></li>
         </ul>
