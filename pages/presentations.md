@@ -5,7 +5,7 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-###  2017
+###  2018
 
 #### EMSE 6992 Final Project: { Length of Stay Reduction in Emergency Departments of Public Sector Hospitals: A Pakistan Case Study }
 <br/>&nbsp; &nbsp; &nbsp; Slides:
