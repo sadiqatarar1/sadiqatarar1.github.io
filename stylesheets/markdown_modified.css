@@ -6,9 +6,9 @@ ul,ol {
 
 a
 {
-  color: purple;
-  text-decoration: none;
-  background-color: transparent;
+  color: yellow;
+  text-decoration: underline;
+  background-color: red;
 }
 
 a:hover
