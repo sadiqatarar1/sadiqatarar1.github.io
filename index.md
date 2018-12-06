@@ -16,7 +16,7 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-### <a name="Portfolio"></a>Myy Portfolio
+### <a name="Portfolio"></a>My Portfolio
 
 <table class="wide">
 <tr>
