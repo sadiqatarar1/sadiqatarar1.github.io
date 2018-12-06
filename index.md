@@ -23,6 +23,3 @@ keywords: cool, happy
   </td>
 </tr>
 </table>
-
-
-</div>
