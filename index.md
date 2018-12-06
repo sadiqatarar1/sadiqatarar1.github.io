@@ -14,7 +14,7 @@ keywords: cool, happy
 
 ### <a name="Portfolio"></a>My Portfolio
 
-<<<<<<< HEAD
+
 <table class="wide">
 <tr>
   <td class="left">
@@ -22,5 +22,3 @@ keywords: cool, happy
 
   </td>
 </tr>
-</table>
-=======
