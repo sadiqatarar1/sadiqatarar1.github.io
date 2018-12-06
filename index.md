@@ -1,7 +1,10 @@
 ---
-layout: frontpage
 title: Sadiqa Tarar
+<<<<<<< HEAD
 description: Sadiqa Tarar is a masters student at The George Washington University. She is pursuing her degree in Systems Engineering with a concentration in Optimization Research.
+=======
+description: Sadiqa Tarar is a masters student at The George Washington University. She is pursuing her degree in Systems Engineering with a concentration in Optimization Research. 
+>>>>>>> e6dac430a2c1919106fd9023ff12e1d84746cdb1
 keywords: cool, happy
 ---
 
@@ -15,6 +18,7 @@ keywords: cool, happy
 
 ### <a name="Portfolio"></a>My Portfolio
 
+<<<<<<< HEAD
 <table class="wide">
 <tr>
   <td class="left">
@@ -23,3 +27,6 @@ keywords: cool, happy
   </td>
 </tr>
 </table>
+=======
+
+>>>>>>> e6dac430a2c1919106fd9023ff12e1d84746cdb1
