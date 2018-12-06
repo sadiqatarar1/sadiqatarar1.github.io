@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Sadiqa Tarar
-description:Sadiqa Tarar is a masters student at The George Washington University. She is pursuing her degree in Systems Engineering with a concentration in Optimization Research. 
+description: Sadiqa Tarar is a masters student at The George Washington University. She is pursuing her degree in Systems Engineering with a concentration in Optimization Research. 
 keywords: cool, happy
 ---
 
@@ -11,7 +11,7 @@ keywords: cool, happy
           <li><a href="{{ BASE_PATH }}/assets/Sadiqa Tarar Resume 2018 copy.pdf">cv</a></li>
           <li><a href="https://github.com/sadiqatarar1">github</a></li>
   
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li>
       </ul>
   </div>
 </div>
