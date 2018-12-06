@@ -20,6 +20,6 @@ B.S. Biomedical Engineering 2017, The George Washington University
 M.S. Systems Engineering 2019, The George Washington University
 
 #### <a name="CVandResume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sadiqa Tarar Resume 2018.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Sadiqa Tarar Resume 2018 copy.pdf)
 
 ---
