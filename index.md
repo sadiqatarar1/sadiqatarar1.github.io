@@ -1,14 +1,14 @@
 ---
 layout: frontpage
 title: Sadiqa Tarar
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description:Sadiqa Tarar is a masters student at The George Washington University. She is pursuing her degree in Systems Engineering with a concentration in Optimization Research. 
+keywords: cool, happy
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Sadiqa Tarar Resume 2018 copy.pdf">cv</a></li>
           <li><a href="https://github.com/sadiqatarar1">github</a></li>
   
           <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
