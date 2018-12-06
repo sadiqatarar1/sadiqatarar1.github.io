@@ -12,6 +12,5 @@ keywords: cool, happy
            <li><a href="{{ BASE_PATH }}/assets/Sadiqa Tarar Resume 2018 copy.pdf">cv</a></li>
            <li><a href="https://github.com/sadiqatarar1">github</a></li>
 
-           
-       </ul>
+      
    </div>
