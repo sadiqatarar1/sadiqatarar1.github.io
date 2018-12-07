@@ -17,6 +17,7 @@ Sadiqa received her B.S. in Biomedical Engineering from The George Washington Un
 #### <a name="ResearchBackground"></a>research background
 Sadiqa's previous research was in the Imaging Lab at The George Washington University where she developed optical coherence tomography technology to investigate whether OCT can be used to visualize morphological tissue changes that occur with exposure to cold plasma.
 
+[PROJECT ![project as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/OCT and Cold Plasmas Poster copy.png)
 
 #### <a name="Education"></a>ecucation
 B.S. Biomedical Engineering 2017, The George Washington University
