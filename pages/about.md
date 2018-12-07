@@ -7,7 +7,7 @@ description: Sadiqa Tarar is a masters student at The George Washington Universi
 #### <a name="CurrentPosition"></a>current position
 Sadiqa is pursuing a degree in Systems Engineering with a focus in Operations Research. She is currently conducting her own research project titled "Length of Stay Reduction in Emergency Departments of Public Sector Hospitals: A Pakistan Case Study". She expects to use discrete event simulation and stochastic optimization techniques to model and optimize emergency departments in low income countries.
 
-[PROJECT ![project as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Data Analysis Project pdf.pdf)
+[PROJECT ![project as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Data Analysis Project final.pdf)
 
 
 #### <a name="PreviousPosition"></a>previous positions
